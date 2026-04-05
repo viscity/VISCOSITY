@@ -16,9 +16,11 @@
 <h1 align="left">💫 About Viscosity: </h1>
 <img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/viscosity"/>
 <br/>
+
 - 🔭 I’m currently working on Telegram Bots & Website's.<br>
 - 👯 All my public projects are easily accessible here.<br>
 - 💬 Feel free to inquire about Bot Development<br>
+
 <br/>
 
 </p>
