@@ -11,12 +11,12 @@
 <h1 align="left">💫 About Me: </h1>
 <img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/Robo.webp"/>
 <br/>
-- 🔭 I’m currently working on Telegram Bots.<br>
+- 🔭 I’m currently working on Telegram Bots & Website's.<br>
 - 👯 All my public projects are easily accessible here.<br>
-- 🌱 I’m currently learning Python.<br>
 - 💬 Feel free to inquire about Bot Development<br>
 <br/>
-<h1 align="left">🌐 Socials Contact: </h1>
+
+<h1 align="left">🌐 Socials Accounts: </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/snehilaniketofficial?igsh=NHgxZjkzcWw2emlr)])
 [![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscxd) 
