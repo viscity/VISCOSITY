@@ -26,7 +26,6 @@
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%23F05034svg?logo=Whatsapp&logoColor=white)](https://wa.me/6283110885512) 
 
 <br/>
-
 <h1 aling="left">🛠️ Langs Stats: </h1>
 <img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/Language"/>
 
