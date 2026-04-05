@@ -18,6 +18,7 @@
 
 <h1 align="left">🌐 Social Media Handle's: </h1>
 <img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/Socialmedia"/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/snehilaniketofficial?igsh=NHgxZjkzcWw2emlr)])
 [![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscxd) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscity) 
